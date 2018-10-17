@@ -9,6 +9,10 @@ public class NewStudent {
     public int score;
     public int subject;
     public int teacheridl;
+    
+    //by wb test
+    public int age;
+    
 
     public int getId() {
         return id;
